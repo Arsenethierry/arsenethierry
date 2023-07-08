@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, nextjs, react-query, redux, nodejs**
 
-- 📫 How to reach me **https://arsenethierry-dev.vercel.app/**
+- 📫 How to reach me **[https://arsenethierry-dev.vercel.app/](https://dub.sh/arsenethierry)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
